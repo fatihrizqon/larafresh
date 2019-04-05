@@ -1,0 +1,80 @@
+html, body {
+    /* background-color: #fff; */
+    background: url("http://papers.co/wallpaper/papers.co-ar12-minimal-sunset-art-illustration-40-wallpaper.jpg");
+    color: #FFF;
+    font-family: 'Quicksand', sans-serif;  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Quicksand', sans-serif !important;
+    font-weight: 200 !important;
+    font-size: 96px !important;
+    margin-bottom:15px;
+}
+h2{
+    font-family: 'Quicksand', sans-serif !important;
+    font-weight: 300 !important;
+    font-size: 80px !important;
+    margin-bottom:50px;
+}
+h3{
+    font-family: 'Quicksand', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 64px !important;
+    margin-bottom:50px;
+}
+h4{
+    font-family: 'Quicksand', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 48px !important;
+    margin-bottom:50px;
+}
+h5{
+    font-family: 'Quicksand', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 32px !important;
+    margin-bottom:50px;
+}
+h6{
+    font-family: 'Quicksand', sans-serif !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    margin-bottom:50px;
+}
+p{
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    margin-top:2px !important;
+    margin-bottom:2px !important;
+}
+.full-height {
+    height: 100vh;
+}
+.position-ref {
+    position: relative;
+}
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    text-align: center;
+}
+
+.links > a {
+    color: #FFF;
+    margin: 15 0px;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
